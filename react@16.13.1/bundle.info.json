@@ -1,0 +1,11 @@
+{
+    "bundledDependencies": {
+        "prop-types/checkPropTypes": [
+            "default"
+        ]
+    },
+    "libSize": 8012,
+    "importerSize": 5864,
+    "maxChunkSize": 6498,
+    "chunksSumSize": 187232
+}

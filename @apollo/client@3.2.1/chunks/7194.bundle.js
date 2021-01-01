@@ -1,0 +1,1 @@
+(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[7194],{7194:(e,l,a)=>{"use strict";a.r(l),a.d(l,{default:()=>c});const c=a(6829).useReactiveVar}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[4839],{4839:(e,l,t)=>{"use strict";t.r(l),t.d(l,{default:()=>a});const a=t(1439).defaultDataIdFromObject}}]);

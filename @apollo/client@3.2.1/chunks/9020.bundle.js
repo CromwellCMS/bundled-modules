@@ -1,0 +1,1 @@
+(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[9020],{9020:(l,e,o)=>{"use strict";o.r(e),o.d(e,{default:()=>t});const t=o(1439).ApolloClient}}]);

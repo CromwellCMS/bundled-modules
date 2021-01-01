@@ -1,0 +1,1 @@
+(self.webpackChunkhtmlparser2=self.webpackChunkhtmlparser2||[]).push([[548],{548:(e,l,s)=>{"use strict";s.r(l),s.d(l,{default:()=>r});const r=s(719).CollectingHandler}}]);

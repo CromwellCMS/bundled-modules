@@ -1,0 +1,20 @@
+{
+    "bundledDependencies": {
+        "stream": [
+            "default"
+        ],
+        "string_decoder/": [
+            "default"
+        ],
+        "util": [
+            "default"
+        ],
+        "events": [
+            "default"
+        ]
+    },
+    "libSize": 34045,
+    "importerSize": 5226,
+    "maxChunkSize": 32479,
+    "chunksSumSize": 34060
+}

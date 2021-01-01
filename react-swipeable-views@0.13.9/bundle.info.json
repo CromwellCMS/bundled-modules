@@ -1,0 +1,32 @@
+{
+    "bundledDependencies": {
+        "@babel/runtime/helpers/interopRequireDefault": [
+            "default"
+        ],
+        "@babel/runtime/helpers/inherits": [
+            "default"
+        ],
+        "@babel/runtime/helpers/getPrototypeOf": [
+            "default"
+        ],
+        "@babel/runtime/helpers/possibleConstructorReturn": [
+            "default"
+        ],
+        "@babel/runtime/helpers/createClass": [
+            "default"
+        ],
+        "@babel/runtime/helpers/classCallCheck": [
+            "default"
+        ],
+        "@babel/runtime/helpers/objectWithoutProperties": [
+            "default"
+        ],
+        "@babel/runtime/helpers/extends": [
+            "default"
+        ]
+    },
+    "libSize": 14461,
+    "importerSize": 3573,
+    "maxChunkSize": 13287,
+    "chunksSumSize": 13287
+}

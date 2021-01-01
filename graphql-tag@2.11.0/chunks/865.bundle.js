@@ -1,0 +1,1 @@
+(self.webpackChunkgraphql_tag=self.webpackChunkgraphql_tag||[]).push([[865],{865:(e,a,s)=>{"use strict";s.r(a),s.d(a,{default:()=>t});const t=s(119).resetCaches}}]);

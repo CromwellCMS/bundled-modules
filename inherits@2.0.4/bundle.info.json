@@ -1,0 +1,11 @@
+{
+    "bundledDependencies": {
+        "util": [
+            "default"
+        ]
+    },
+    "libSize": 8044,
+    "importerSize": 3835,
+    "maxChunkSize": 6995,
+    "chunksSumSize": 6995
+}

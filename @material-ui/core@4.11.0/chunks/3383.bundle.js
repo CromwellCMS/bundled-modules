@@ -1,0 +1,1 @@
+(self.webpackChunk_material_ui_core=self.webpackChunk_material_ui_core||[]).push([[3383],{3383:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>u});const u=s(8920).Z},9700:(e,t,s)=>{"use strict";s.d(t,{Z:()=>u});const u=(0,s(3633).Z)()},8920:(e,t,s)=>{"use strict";s.d(t,{Z:()=>c});var u=s(563),r=(s(2030),s(9700));function c(){return(0,u.useTheme)()||r.Z}}}]);

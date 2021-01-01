@@ -1,0 +1,11 @@
+{
+    "bundledDependencies": {
+        "@babel/runtime/helpers/interopRequireDefault": [
+            "default"
+        ]
+    },
+    "libSize": 3093,
+    "importerSize": 4090,
+    "maxChunkSize": 2182,
+    "chunksSumSize": 12958
+}

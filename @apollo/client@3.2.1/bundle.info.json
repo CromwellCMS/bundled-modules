@@ -1,0 +1,14 @@
+{
+    "bundledDependencies": {
+        "graphql/language/visitor": [
+            "default"
+        ],
+        "graphql/language/printer": [
+            "default"
+        ]
+    },
+    "libSize": 114831,
+    "importerSize": 11611,
+    "maxChunkSize": 37300,
+    "chunksSumSize": 122658
+}

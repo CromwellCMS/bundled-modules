@@ -1,0 +1,11 @@
+{
+    "bundledDependencies": {
+        "graphql/language/parser": [
+            "default"
+        ]
+    },
+    "libSize": 42257,
+    "importerSize": 4471,
+    "maxChunkSize": 32232,
+    "chunksSumSize": 41995
+}

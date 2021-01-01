@@ -1,0 +1,1 @@
+(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[3794],{3794:(e,l,c)=>{"use strict";c.r(l),c.d(l,{default:()=>s});const s=c(6829).selectURI}}]);

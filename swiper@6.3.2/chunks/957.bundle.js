@@ -1,0 +1,1 @@
+(self.webpackChunkswiper=self.webpackChunkswiper||[]).push([[957],{1957:(e,s,p)=>{"use strict";p.r(s),p.d(s,{default:()=>u});const u=p(4212).Z}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_material_ui_core=self.webpackChunk_material_ui_core||[]).push([[2495],{2495:(e,t,u)=>{"use strict";u.r(t),u.d(t,{default:()=>r});const r=u(713).Z},626:(e,t,u)=>{"use strict";function r(e){return e&&e.ownerDocument||document}u.d(t,{Z:()=>r})},713:(e,t,u)=>{"use strict";u.d(t,{Z:()=>n});var r=u(626);function n(e){return(0,r.Z)(e).defaultView||window}}}]);
