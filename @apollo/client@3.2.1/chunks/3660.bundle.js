@@ -1,1 +1,0 @@
-(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[3660],{3660:(e,l,s)=>{"use strict";s.r(l),s.d(l,{default:()=>a});const a=s(1439).Observable}}]);

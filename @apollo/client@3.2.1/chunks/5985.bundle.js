@@ -1,1 +1,0 @@
-(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[5985],{5985:(l,e,t)=>{"use strict";t.r(e),t.d(e,{default:()=>a});const a=t(6829).fallbackHttpConfig}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunk_material_ui_core=self.webpackChunk_material_ui_core||[]).push([[1692],{1692:(e,t,i)=>{"use strict";i.r(t),i.d(t,{default:()=>u});const u=i(3711).Z},3711:(e,t,i)=>{"use strict";i.d(t,{Z:()=>a});var u=i(2030);function a(e,t){return u.isValidElement(e)&&-1!==t.indexOf(e.type.muiName)}}}]);

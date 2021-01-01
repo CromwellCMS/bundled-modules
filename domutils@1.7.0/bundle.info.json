@@ -1,7 +1,7 @@
 {
     "bundledDependencies": {},
     "libSize": 5865,
-    "importerSize": 6130,
+    "importerSize": 6140,
     "maxChunkSize": 4752,
-    "chunksSumSize": 142098
+    "chunksSumSize": 142108
 }

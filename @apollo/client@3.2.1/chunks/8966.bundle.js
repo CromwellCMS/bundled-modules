@@ -1,0 +1,1 @@
+(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[8966],{8966:(e,l,t)=>{"use strict";t.r(l),t.d(l,{default:()=>s});const s=t(6829).useMutation}}]);

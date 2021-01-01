@@ -1,0 +1,1 @@
+(self.webpackChunk_material_ui_core=self.webpackChunk_material_ui_core||[]).push([[9878],{9878:(e,a,u)=>{"use strict";u.r(a),u.d(a,{default:()=>c});const c=u(1657).Z}}]);

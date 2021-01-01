@@ -1,9 +1,9 @@
 {
     "bundledDependencies": {
-        "events": [
+        "entities/lib/decode_codepoint.js": [
             "default"
         ],
-        "entities/lib/decode_codepoint.js": [
+        "events": [
             "default"
         ],
         "buffer": [
@@ -14,7 +14,7 @@
         ]
     },
     "libSize": 94059,
-    "importerSize": 6018,
+    "importerSize": 6014,
     "maxChunkSize": 64715,
-    "chunksSumSize": 95387
+    "chunksSumSize": 95381
 }

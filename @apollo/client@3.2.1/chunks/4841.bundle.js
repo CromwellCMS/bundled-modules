@@ -1,1 +1,0 @@
-(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[4841],{4841:(e,l,a)=>{"use strict";a.r(l),a.d(l,{default:()=>n});const n=a(1439).disableFragmentWarnings}}]);
