@@ -1,1 +1,0 @@
-{"name":"readable-stream@^3.1.1","import":"lib","externalDependencies":{"safe-buffer@5.2.1":["default"],"util-deprecate@1.0.2":["default"],"inherits@2.0.4":["default"],"core-util-is@1.0.2":["default"],"process-nextick-args@2.0.1":["default"],"isarray@1.0.0":["default"]}}

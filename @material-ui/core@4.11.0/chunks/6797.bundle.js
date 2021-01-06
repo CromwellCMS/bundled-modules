@@ -1,1 +1,0 @@
-(self.webpackChunk_material_ui_core=self.webpackChunk_material_ui_core||[]).push([[6797],{6797:(e,r,a)=>{"use strict";a.r(r),a.d(r,{default:()=>s});const s=a(563).StylesProvider}}]);

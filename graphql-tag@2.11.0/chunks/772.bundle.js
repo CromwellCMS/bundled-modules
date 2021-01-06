@@ -1,1 +1,0 @@
-(self.webpackChunkgraphql_tag=self.webpackChunkgraphql_tag||[]).push([[772],{772:(a,e,l)=>{"use strict";l.r(e),l.d(e,{default:()=>s});const s=l(119).disableExperimentalFragmentVariables}}]);

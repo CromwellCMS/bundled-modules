@@ -1,1 +1,0 @@
-(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[4980],{4980:(e,l,t)=>{"use strict";t.r(l),t.d(l,{default:()=>c});const c=t(6829).createHttpLink}}]);

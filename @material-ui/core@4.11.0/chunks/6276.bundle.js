@@ -1,1 +1,0 @@
-(self.webpackChunk_material_ui_core=self.webpackChunk_material_ui_core||[]).push([[6276],{6276:(e,a,r)=>{"use strict";r.r(a),r.d(a,{default:()=>s});const s=r(563).createGenerateClassName}}]);

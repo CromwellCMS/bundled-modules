@@ -1,1 +1,0 @@
-{"name":"mobx-react-lite@^2.2.0","import":"lib","externalDependencies":{"react@16.13.1":["default"],"mobx@5.15.7":["default"],"react-dom@16.13.1":["unstable_batchedUpdates"],"object-assign@4.1.1":["default"]}}

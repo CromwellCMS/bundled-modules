@@ -1,1 +1,0 @@
-{"name":"query-string@6.13.4","import":"lib","externalDependencies":{"split-on-first@1.1.0":["default"],"decode-uri-component@0.2.0":["default"],"strict-uri-encode@2.0.0":["default"]}}

@@ -1,1 +1,0 @@
-(self.webpackChunk_apollo_client=self.webpackChunk_apollo_client||[]).push([[9044],{9044:(e,l,s)=>{"use strict";s.r(l),s.d(l,{default:()=>c});const c=s(6829).useSubscription}}]);
