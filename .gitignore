@@ -1,3 +1,10 @@
 chunks
-*.js
-*.json
+generated
+generated.js
+generated.node.js
+lib.bundle.js
+main.bundle.js
+meta.json
+node.bundle.js
+bundle.info.json
+*.LICENSE.txt
