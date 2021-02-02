@@ -1,0 +1,18 @@
+{
+    "name": "@cromwell/bundled-modules",
+    "version": "1.0.0",
+    "main": "unzip.js",
+    "private": true,
+    "scripts": {
+        "unzip": "node ./unzip.js"
+    },
+    "dependencies": {
+        "decompress": "^4.2.1",
+        "glob": "^7.1.6",
+        "fs-extra": "^9.0.1",
+        "normalize-path": "^3.0.0"
+    },
+    "engines": {
+        "node": "14.x"
+    }
+}
