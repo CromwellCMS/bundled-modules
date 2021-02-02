@@ -12,8 +12,11 @@ const normalizePath = require('normalize-path');
             try {
                 await decompress(zipName, dirname(zipName));
             } catch (err) {
-                console.log(`Failed to unzip: ${zipName}`, err);
-                await fs.remove(dirname(zipName));
+                try {
+                    await decompress(zipName, dirname(zipName));
+                } catch (err) {
+                    console.log(`Failed to unzip: ${zipName}`, err);
+                }
             }
         }
     };
