@@ -8,3 +8,4 @@ meta.json
 node.bundle.js
 bundle.info.json
 *.LICENSE.txt
+node_modules
