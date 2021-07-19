@@ -4,7 +4,8 @@
     "main": "unzip.js",
     "private": true,
     "scripts": {
-        "unzip": "node ./unzip.js"
+        "unzip": "node ./unzip.js",
+        "list": "node ./list.js"
     },
     "dependencies": {
         "extract-zip": "^2.0.1",
