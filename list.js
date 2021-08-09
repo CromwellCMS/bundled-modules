@@ -30,7 +30,7 @@ const list = () => {
     })
 
 
-    fs.outputJSONSync('list.json', {
+    fs.outputJSONSync('./versions/latest.json', {
         packages,
         latestVersions,
     }, { spaces: 2 });
